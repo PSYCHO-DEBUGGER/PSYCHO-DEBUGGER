@@ -5,7 +5,7 @@
  
  
  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PSYCHO-RANA&label=PROFILE%20VIEWERS&color=0e75b6&style=flat" alt="PSYCHO-RANA" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PSYCHO-RANA&label=PROFILE%20VIEWERS&color=0e75b6&style=flat" alt="PSYCHO-DEBUGGER" /> </p>
  
 <p align="center">
   <img src="RANA/welcome.png"/>
@@ -46,16 +46,16 @@
  
 ### 📈 Top Usage Languages:
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSYCHO-RANA&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSYCHO-DEBUGGER&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
  
 ---
  ## 💫 My Github Stats:
  
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PSYCHO-RANA&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad RANA GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PSYCHO-DEBUGGER&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad RANA GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PSYCHO-RANA&theme=algolia" alt="TOXIC-RANA" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PSYCHO-DEBUGGER&theme=algolia" alt="PSYCHO-RANA" />
 </p>
  
 ---
@@ -74,7 +74,7 @@
   <a href="mailto:toxicrana6t9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/PSYCHO-RANA">
+  <a href="https://github.com/PSYCHO-DEBUGGER">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-rana-b007b8325/">

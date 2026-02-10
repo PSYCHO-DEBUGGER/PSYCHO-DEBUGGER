@@ -74,7 +74,7 @@
   <a href="mailto:toxicrana6t9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/TOXIC-RANA">
+  <a href="https://github.com/PSYCHO-RANA">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-rana-b007b8325/">

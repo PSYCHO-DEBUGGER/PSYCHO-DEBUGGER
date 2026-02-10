@@ -55,7 +55,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PSYCHO-DEBUGGER&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad RANA GitHub status" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PSYCHO-DEBUGGER&theme=algolia" alt="PSYCHO-RANA" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PSYCHO-DEBUGGER&theme=algolia" alt="PSYCHO-DEBUGGER" />
 </p>
  
 ---
@@ -71,7 +71,7 @@
  
 ## 📞 **Contact Me**
 <p align="center">
-  <a href="mailto:toxicrana6t9@gmail.com">
+  <a href="mailto:dev.r4na@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/PSYCHO-DEBUGGER">
